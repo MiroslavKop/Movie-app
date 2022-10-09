@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+.main {
+  background-color: #DDA448;
+  border-top: 5px solid #D18408;
+  min-height: 100vh;
+  z-index: 100;
+  position: relative;
+}
+
+.container {
+  padding: 20px;
+}
+
+.green {
+  color: #00ff00;
+}
+
+.orange {
+  color: #ff7c00;
+}
+
+.red {
+  color: red;
+}
